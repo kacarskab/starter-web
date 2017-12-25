@@ -1,4 +1,4 @@
-# Starter Web Project-GitHub
+# Starter Web Project-LocalGit
 
 ##Introduction
 ## Deployment
