@@ -1,4 +1,4 @@
-# Starter Web Project-LocalGit
+# Starter Web Project-StagedFile
 
 ##Introduction
 ## Deployment
